@@ -13,6 +13,12 @@ You can install the stable released version of `{NicheBarcoding}` from
 devtools::install_github("Yangcq-Ivy/NicheBarcoding")
 ```
 
+or directly install from [CRAN](https://cran.r-project.org/) with:
+
+``` r
+install.packages("NicheBarcoding")
+```
+
 ## Functions
 
 This package provides three primary actions:
